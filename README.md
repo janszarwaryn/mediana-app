@@ -7,6 +7,9 @@ Create an expense analysis system that calculates the median of all expenses up 
 - Code quality and cleanliness
 - Memory management
 
+![image](https://github.com/user-attachments/assets/1344ab1b-67c2-4c22-a485-6934cc4750a8)
+
+
 ## Technical Requirements
 1. Language: JavaScript or Python
 2. Libraries: Standard libraries only (e.g., math)
